@@ -1,7 +1,7 @@
 ## 🌳🌳 Hi there 👋 🌳🌳
 
 - 🔭 I’m currently working on ... several personal projects, particulary with Next.js and React
-- 🌱 I’m currently learning ... Next.js 
+- 🌱 I’m currently learning Clean architecture ...
 
 🌳🌳🌳
 
