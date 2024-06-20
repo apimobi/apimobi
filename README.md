@@ -1,7 +1,7 @@
 ## 🌳🌳 Hi there 👋 🌳🌳
 
 - 🔭 I’m currently working on ... some personal projects, particulary with Next.js and React and python
-- 🌱 I’m currently learning Hexagonale architecture and clean architecture ...
+- 🌱 I’m currently learning Hexagonal architecture and clean architecture ...
 
 🌳🌳🌳
 
