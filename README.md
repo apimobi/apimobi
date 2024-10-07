@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs]![apimobi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=apimobi&theme=default&hide_border=true)**
+
                                                          .
                                               .         ;  
                  .              .              ;%     ;;   
@@ -52,4 +54,4 @@ Here are some ideas to get you started:
                               ;%@@@@%%:;;;. 
                           ...;%@@@@@%%:;;;;,..    Gilo97
 
-[![Top Langs][apimobi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=apimobi&theme=default&hide_border=true)
+
