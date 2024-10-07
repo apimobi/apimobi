@@ -51,3 +51,5 @@ Here are some ideas to get you started:
                                ;%@@@@%::;.          
                               ;%@@@@%%:;;;. 
                           ...;%@@@@@%%:;;;;,..    Gilo97
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apimobi)](https://github.com/apimobi/github-readme-stats)
