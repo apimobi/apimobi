@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[Top Langs]![apimobi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=apimobi&theme=default&hide_border=true)  
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=apimobi)](https://git.io/streak-stats)
 
 ```
            \/ |    |/
