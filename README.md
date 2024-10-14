@@ -25,6 +25,15 @@ Here are some ideas to get you started:
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=apimobi)](https://git.io/streak-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=apimobi&theme=transparent&count_private=true&hide_border=false&border_color=30363d" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apimobi&layout=compact&langs_count=10&count_private=true&card_width=320&hide_border=false&theme=transparent&border_color=30363d&hide=jupyter%20notebook,html" />
+</a>
+
+
+
 ```
            \/ |    |/
         \/ / \||/  /_/___/_
