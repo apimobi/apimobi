@@ -25,33 +25,17 @@ Here are some ideas to get you started:
 
 [Top Langs]![apimobi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=apimobi&theme=default&hide_border=true)
 
-                                                         .
-                                              .         ;  
-                 .              .              ;%     ;;   
-                   ,           ,                :;%  %;   
-                    :         ;                   :;%;'     .,   
-           ,.        %;     %;            ;        %;'    ,;
-             ;       ;%;  %%;        ,     %;    ;%;    ,%'
-              %;       %;%;      ,  ;       %;  ;%;   ,%;' 
-               ;%;      %;        ;%;        % ;%;  ,%;'
-                `%;.     ;%;     %;'         `;%%;.%;'
-                 `:;%.    ;%%. %@;        %; ;@%;%'
-                    `:%;.  :;bd%;          %;@%;'
-                      `@%:.  :;%.         ;@@%;'   
-                        `@%.  `;@%.      ;@@%;         
-                          `@%%. `@%%    ;@@%;        
-                            ;@%. :@%%  %@@%;       
-                              %@bd%%%bd%%:;     
-                                #@%%%%%:;;
-                                %@@%%%::;
-                                %@@@%(o);  . '         
-                                %@@@o%;:(.,'         
-                            `.. %@@@o%::;         
-                               `)@@@o%::;         
-                                %@@(o)::;        
-                               .%@@@@%::;         
-                               ;%@@@@%::;.          
-                              ;%@@@@%%:;;;. 
-                          ...;%@@@@@%%:;;;;,..    Gilo97
+    ccee88oo
+  C8O8O8Q8PoOb o8oo
+ dOB69QO8PdUOpugoO9bD
+CgggbU8OU qOp qOdoUOdcb
+    6OuU  /p u gcoUodpP
+      \\\//  /douUP
+        \\\////
+         |||/\
+         |||\/
+         |||||
+   .....//||||\....
+   David Moore
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apimobi)](https://github.com/apimobi/github-readme-stats)
